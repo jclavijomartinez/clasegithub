@@ -1,3 +1,13 @@
-esta linea es un ejemplo para la clase de github
-esta es otra linea para la clase de github
-g
+Abro el explorador
+Me voy a donde esta la carpeta
+Abro la carpeta 
+Click derecho 
+Git bash here
+Git pull
+Abro el archivo
+Hago cambios hasta que este satisfecho
+Guardo el archivo 
+Voy a la terminal y git commit -a -m "Mensaje" 
+Git push 
+Git log
+Git checkout
