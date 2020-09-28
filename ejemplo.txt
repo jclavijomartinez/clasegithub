@@ -11,3 +11,13 @@ Voy a la terminal y git commit -a -m "Mensaje"
 Git push 
 Git log
 Git checkout
+esta linea es un ejemplo para la clase de github
+esta es otra linea para la clase de github
+holaholaholaholaholaholaholahola
+holaholaholaholaholaholahola
+holaholaholaholahola
+holaholaholahola
+holaholaholaholahola
+holaholaholaholaholaholahola
+holaholaholaholaholaholaholahola
+
