@@ -26,9 +26,18 @@ Hacer un merge (DEBES ESTAR EN LA RAMA A LA QUE QUIERES QUE LLEGUE EL MERGE):
 git merge [nombre de la rama]
 ////////////////////////////////////////////////////////
 GITHUB
-traer el repositorio de github a local (solo una vez, al inicio):
+============================================================
+WORKFLOW
+* al sentarse a trabajar abir una terminal de bash (GIT bash here) *
+git checkout master (pasar a master si no se inicia ahí)
+[buena práctica] git pull (traer todos los cambios que se hayan hecho)<--╗
+* Editar y commitear*                                                    |
+git push (enviar todos los commits a github) ----------------------------╝
+============================================================
+COMANDOS
+Traer el repositorio de github a local (solo una vez, al inicio):
 git clone [url del repo desde la pagina]
-traer los ultimos cambios al repo de cualquier rama:
+Traer los ultimos cambios al repo de cualquier rama:
 git pull origin [nombre de la rama]
 Enviar los ultimos cambios a github (DESDE MASTER):
 git push
