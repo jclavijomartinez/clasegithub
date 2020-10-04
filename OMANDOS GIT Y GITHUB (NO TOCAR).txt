@@ -1,0 +1,36 @@
+COMANDOS DE GIT y GITHUB
+-----------------------------------
+GIT
+==========================================================
+WORKFLOW:
+git init (solo 1 vez, al principio)
+git add . (pongo mis archivos en staging)<----------------╗
+git status (confirmo que mis archivos esten donde quiero) |
+git commit -a -m "[mensaje]"                              |
+* hago cambios/añado archivos * --------------------------╝
+==========================================================
+COMANDOS
+Inicializar un repo (solo una vez al principio):
+git init
+Mirar en que estado estan mis docs:
+git status
+Añadir mis docs a staging:
+git add [nombre del doc] / git add . 
+Commitear:
+git commit -a -m "mensaje"
+Arrgelar el mensaje del ultimo commit:
+git commit --ammend
+Cambiar de rama:
+git checkout [nombre de la rama]
+Hacer un merge (DEBES ESTAR EN LA RAMA A LA QUE QUIERES QUE LLEGUE EL MERGE):
+git merge [nombre de la rama]
+////////////////////////////////////////////////////////
+GITHUB
+traer el repositorio de github a local (solo una vez, al inicio):
+git clone [url del repo desde la pagina]
+traer los ultimos cambios al repo de cualquier rama:
+git pull origin [nombre de la rama]
+Enviar los ultimos cambios a github (DESDE MASTER):
+git push
+Enviar los cambios desde otras ramas:
+git push origin [nombre de la rama]
