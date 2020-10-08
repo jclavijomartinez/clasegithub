@@ -13,12 +13,4 @@ Git log
 Git checkout
 esta linea es un ejemplo para la clase de github
 esta es otra linea para la clase de github
-holaholaholaholaholaholaholahola
-holaholaholaholaholaholahola
-holaholaholaholahola
-holaholaholahola
-holaholaholaholahola
-holaholaholaholaholaholahola
-holaholaholaholaholaholaholahola
-hollow
-
+Adios Adios Adios
