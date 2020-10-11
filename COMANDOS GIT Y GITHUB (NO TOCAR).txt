@@ -20,6 +20,8 @@ Commitear:
 git commit -a -m "mensaje"
 Arrgelar el mensaje del ultimo commit:
 git commit --ammend
+Crear rama: 
+git checkout -b ¨Nombre de la rama¨
 Cambiar de rama:
 git checkout [nombre de la rama]
 Hacer un merge (DEBES ESTAR EN LA RAMA A LA QUE QUIERES QUE LLEGUE EL MERGE):
